@@ -1,6 +1,12 @@
 package lab2;
-
+/**
+ * Клас, шо запускає наше чудо
+ */
 public class Main {
+    /**
+     * Точка входу
+     * @param args параметри
+     */
     public static void main(String[] args) {
 
         Class1 cl1 = new Class1(); cl1.meth1(); cl1.meth3();
